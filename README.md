@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KEKUSAMA
+- 👋 Hi, I’m @pank3ku
 - 👀 I’m interested in LLMs
 - 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on anything fun
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Am KEK
 
 <!---
-KEKUSAMA/KEKUSAMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pank3ku/pank3ku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
