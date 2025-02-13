@@ -2,7 +2,7 @@
 - 👀 I’m interested in LLMs
 - 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me [Discord: keku42069]
+- 📫 How to reach me [Discord: pank3ku]
 - 😄 Pronouns: He/HIM
 - ⚡ Fun fact: Am KEK
 
